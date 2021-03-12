@@ -1,5 +1,6 @@
 /node_modules/
 /.idea/
+/.vscode/
 /secrets.json
 /scripts/
 /migrations/
@@ -7,3 +8,4 @@
 /test/
 /accounts.json
 /truffle-config.js
+.env
